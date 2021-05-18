@@ -2393,7 +2393,7 @@ input, select, textarea {
 				height: 100px;	
 			}
 
-			p {
+			ul.feature-icons li p {
 				width: 100px;
 				text-align: center;
 			}
