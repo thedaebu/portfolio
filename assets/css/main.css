@@ -2386,12 +2386,16 @@ input, select, textarea {
 			position: relative;
 			vertical-align: top;
 			width: 20%;
-			
 		}
 
 			img {
 				width: 100px;
 				height: 100px;	
+			}
+
+			p {
+				width: 100px;
+				text-align: center;
 			}
 
 			ul.feature-icons li:before {
